@@ -1,0 +1,30 @@
+{
+  "generator": "built-in image_gen",
+  "assets": [
+    {
+      "id": "title",
+      "folder": "story",
+      "prompt": "Detailed dark fantasy pixel art game illustration. Crisp square pixel edges, hand-crafted low resolution style enlarged with nearest-neighbour pixels, rich but muted palette, strong silhouettes, warm amber highlights and cool shadows. Consistent with a medieval merchant RPG. Not photorealistic, not smooth 3D, not vector. A ruined young noble's medieval fantasy equipment shop at dusk, view from outside across a rain-wet cobbled street. Warm amber shop windows and a modest wooden sign with NO lettering, a rack of swords and hanging armour glimpsed inside, a weathered noble coat-of-arms shield above the doorway. The shop occupies the RIGHT half of the frame; the LEFT third is dark atmospheric wall and mist with calm uncluttered negative space for menu text. No people, no readable text. Wide landscape 16:9, fill frame, no border, no UI overlay, no captions or words."
+    },
+    {
+      "id": "fall",
+      "folder": "story",
+      "prompt": "Detailed dark fantasy pixel art game illustration. Crisp square pixel edges, hand-crafted low resolution style enlarged with nearest-neighbour pixels, rich but muted palette, strong silhouettes, warm amber highlights and cool shadows. Consistent with a medieval merchant RPG. Not photorealistic, not smooth 3D, not vector. Cinematic scene of a betrayed noble house falling into ruin: a great Gothic manor in the distance on fire at night, torn burgundy banners, rain and drifting ash. In the foreground on the RIGHT, a solitary adult young noble with shoulder-length dark brown hair and a worn burgundy travelling cloak, seen from behind, holding a broken family signet chain. A few indistinct hooded silhouettes watch from a distant archway. No graphic violence. Wide composition with clear atmosphere. Wide landscape 16:9, fill frame, no border, no UI overlay, no captions or words."
+    },
+    {
+      "id": "shop",
+      "folder": "story",
+      "prompt": "Detailed dark fantasy pixel art game illustration. Crisp square pixel edges, hand-crafted low resolution style enlarged with nearest-neighbour pixels, rich but muted palette, strong silhouettes, warm amber highlights and cool shadows. Consistent with a medieval merchant RPG. Not photorealistic, not smooth 3D, not vector. Cinematic scene inside a modest medieval equipment shop before opening, an adult young fallen noble with shoulder-length dark brown hair and a worn burgundy cloak rolled back over practical plain clothing, standing behind a wooden counter examining an old family signet in one hand. Brass scales, a ledger, a small coin pouch, iron swords and simple armour on shelves. Warm lantern light and cold dawn through the doorway, humble new beginning, contemplative mood. No readable text. Wide landscape 16:9, fill frame, no border, no UI overlay, no captions or words."
+    },
+    {
+      "id": "threat",
+      "folder": "story",
+      "prompt": "Detailed dark fantasy pixel art game illustration. Crisp square pixel edges, hand-crafted low resolution style enlarged with nearest-neighbour pixels, rich but muted palette, strong silhouettes, warm amber highlights and cool shadows. Consistent with a medieval merchant RPG. Not photorealistic, not smooth 3D, not vector. Cinematic scene at night in the same humble medieval equipment shop, an adult young fallen noble with shoulder-length dark brown hair and burgundy cloak in the RIGHT foreground studying a ledger and a dagger on a counter by candlelight. Outside the rain-streaked window in the background a distant hooded silhouette waits in the street. Ominous but quiet atmosphere, cool blue night and a narrow warm amber glow, themes of rebuilding a fallen house and surviving political enemies. No attack, no graphic violence, no readable text. Wide landscape 16:9, fill frame, no border, no UI overlay, no captions or words."
+    },
+    {
+      "id": "d20_blank",
+      "folder": "ui",
+      "prompt": "Detailed dark fantasy pixel art game illustration. Crisp square pixel edges, hand-crafted low resolution style enlarged with nearest-neighbour pixels, rich but muted palette, strong silhouettes, warm amber highlights and cool shadows. Consistent with a medieval merchant RPG. Not photorealistic, not smooth 3D, not vector. ONE isolated twenty-sided die for a dark fantasy game animation. A blue-grey stone icosahedral die with antique gold edges, strong triangular facets. A large CENTRAL FRONT TRIANGULAR FACE must be EMPTY AND UNDECORATED so software can overlay the rolled number. Absolutely NO numbers, NO letters, NO runes anywhere. Slight three-quarter front view, centered, whole die visible, transparent generous margin, fills 85 percent of square. No hand, no ground, no shadow outside object, no other objects. Transparent background."
+    }
+  ]
+}

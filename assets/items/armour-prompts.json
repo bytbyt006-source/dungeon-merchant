@@ -1,0 +1,25 @@
+{
+  "generator": "built-in image_gen",
+  "items": [
+    {
+      "id": "leather_armour",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent armour inventory icon for Dungeon Merchant, matching a dark fantasy pixel-art medieval inventory set with worn iron, warm brass, brown leather and warm ivory highlights. One isolated EMPTY garment only, centered fully visible, no body, head, mannequin, hands, character, weapon, scene, tile, text, lettering, border or ground shadow. Genuine transparent alpha background. Authentic crisp square pixel clusters and stepped edges, approximately 64x64 effective sprite grid enlarged nearest-neighbor, bold dark outline, limited muted palette, readable silhouette at 48px. Frontal slightly three-quarter view, generous margins. Subject: a fitted brown ranger leather cuirass, layered shoulder flaps, cross straps, brass buckles, stitched leather panels and short protective waist skirt; light flexible silhouette."
+    },
+    {
+      "id": "chainmail",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent armour inventory icon for Dungeon Merchant, matching a dark fantasy pixel-art medieval inventory set with worn iron, warm brass, brown leather and warm ivory highlights. One isolated EMPTY garment only, centered fully visible, no body, head, mannequin, hands, character, weapon, scene, tile, text, lettering, border or ground shadow. Genuine transparent alpha background. Authentic crisp square pixel clusters and stepped edges, approximately 64x64 effective sprite grid enlarged nearest-neighbor, bold dark outline, limited muted palette, readable silhouette at 48px. Frontal slightly three-quarter view, generous margins. Subject: a grey iron chainmail hauberk, clearly visible small linked mail texture, short sleeves, dark padded collar and brown belt with a plain brass buckle; midweight armour silhouette."
+    },
+    {
+      "id": "plate_armour",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent armour inventory icon for Dungeon Merchant, matching a dark fantasy pixel-art medieval inventory set with worn iron, warm brass, brown leather and warm ivory highlights. One isolated EMPTY garment only, centered fully visible, no body, head, mannequin, hands, character, weapon, scene, tile, text, lettering, border or ground shadow. Genuine transparent alpha background. Authentic crisp square pixel clusters and stepped edges, approximately 64x64 effective sprite grid enlarged nearest-neighbor, bold dark outline, limited muted palette, readable silhouette at 48px. Frontal slightly three-quarter view, generous margins. Subject: a broad heavy steel plate breastplate with large angular pauldrons, articulated waist plates, dark leather straps and restrained worn brass trim; bulky guardian silhouette."
+    },
+    {
+      "id": "mage_robes",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent armour inventory icon for Dungeon Merchant, matching a dark fantasy pixel-art medieval inventory set with worn iron, warm brass, brown leather and warm ivory highlights. One isolated EMPTY garment only, centered fully visible, no body, head, mannequin, hands, character, weapon, scene, tile, text, lettering, border or ground shadow. Genuine transparent alpha background. Authentic crisp square pixel clusters and stepped edges, approximately 64x64 effective sprite grid enlarged nearest-neighbor, bold dark outline, limited muted palette, readable silhouette at 48px. Frontal slightly three-quarter view, generous margins. Subject: a fully covering deep muted teal mage robe with a short dark hooded mantle, long wide sleeves, a plain brown belt and understated brass clasp; empty robe, no person and no staff."
+    },
+    {
+      "id": "cleric_robes",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent armour inventory icon for Dungeon Merchant, matching a dark fantasy pixel-art medieval inventory set with worn iron, warm brass, brown leather and warm ivory highlights. One isolated EMPTY garment only, centered fully visible, no body, head, mannequin, hands, character, weapon, scene, tile, text, lettering, border or ground shadow. Genuine transparent alpha background. Authentic crisp square pixel clusters and stepped edges, approximately 64x64 effective sprite grid enlarged nearest-neighbor, bold dark outline, limited muted palette, readable silhouette at 48px. Frontal slightly three-quarter view, generous margins. Subject: a fully covering burgundy and aged ivory clerical robe with short mantle, long sleeves, gold-trimmed stole and a modest gold cross motif; empty robe, no person and no book."
+    }
+  ]
+}

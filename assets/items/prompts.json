@@ -1,0 +1,34 @@
+{
+  "generator": "built-in image_gen",
+  "style": "dark fantasy pixel art",
+  "items": [
+    {
+      "id": "greatsword",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent inventory icon for Dungeon Merchant dark fantasy pixel-art trading game. Draw exactly ONE item, centered fully visible with generous transparent margins in a square image. Authentic hand-pixelled sprite appearance, crisp square pixel clusters, approximately 64x64 effective pixel grid enlarged with nearest-neighbor, dark 1-2 pixel outlines, limited muted palette, warm ivory highlights, worn medieval materials, readable bold silhouette at 48px display size. View slightly three-quarter, diagonally composed for long objects. No text, lettering, border, tile, scenery, hands, characters, ground shadow, glow halo or other objects. Background genuinely transparent alpha. Subject: a massive steel two-handed greatsword, very broad long blade, long brown leather grip and large dark brass crossguard; strong heavy silhouette."
+    },
+    {
+      "id": "longsword",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent inventory icon for Dungeon Merchant dark fantasy pixel-art trading game. Draw exactly ONE item, centered fully visible with generous transparent margins in a square image. Authentic hand-pixelled sprite appearance, crisp square pixel clusters, approximately 64x64 effective pixel grid enlarged with nearest-neighbor, dark 1-2 pixel outlines, limited muted palette, warm ivory highlights, worn medieval materials, readable bold silhouette at 48px display size. View slightly three-quarter, diagonally composed for long objects. No text, lettering, border, tile, scenery, hands, characters, ground shadow, glow halo or other objects. Background genuinely transparent alpha. Subject: an ordinary slim iron single-handed longsword, narrower blade, short leather-wrapped grip, simple crossguard; distinct from bulky greatsword."
+    },
+    {
+      "id": "hammer",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent inventory icon for Dungeon Merchant dark fantasy pixel-art trading game. Draw exactly ONE item, centered fully visible with generous transparent margins in a square image. Authentic hand-pixelled sprite appearance, crisp square pixel clusters, approximately 64x64 effective pixel grid enlarged with nearest-neighbor, dark 1-2 pixel outlines, limited muted palette, warm ivory highlights, worn medieval materials, readable bold silhouette at 48px display size. View slightly three-quarter, diagonally composed for long objects. No text, lettering, border, tile, scenery, hands, characters, ground shadow, glow halo or other objects. Background genuinely transparent alpha. Subject: a heavy medieval warhammer with chunky rectangular iron head, subtle worn brass bands and thick short wooden haft."
+    },
+    {
+      "id": "shield",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent inventory icon for Dungeon Merchant dark fantasy pixel-art trading game. Draw exactly ONE item, centered fully visible with generous transparent margins in a square image. Authentic hand-pixelled sprite appearance, crisp square pixel clusters, approximately 64x64 effective pixel grid enlarged with nearest-neighbor, dark 1-2 pixel outlines, limited muted palette, warm ivory highlights, worn medieval materials, readable bold silhouette at 48px display size. View slightly three-quarter, diagonally composed for long objects. No text, lettering, border, tile, scenery, hands, characters, ground shadow, glow halo or other objects. Background genuinely transparent alpha. Subject: an oak heater shield with clear wooden planks, dark iron rim, central iron boss and modest brass rivets."
+    },
+    {
+      "id": "staff",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent inventory icon for Dungeon Merchant dark fantasy pixel-art trading game. Draw exactly ONE item, centered fully visible with generous transparent margins in a square image. Authentic hand-pixelled sprite appearance, crisp square pixel clusters, approximately 64x64 effective pixel grid enlarged with nearest-neighbor, dark 1-2 pixel outlines, limited muted palette, warm ivory highlights, worn medieval materials, readable bold silhouette at 48px display size. View slightly three-quarter, diagonally composed for long objects. No text, lettering, border, tile, scenery, hands, characters, ground shadow, glow halo or other objects. Background genuinely transparent alpha. Subject: a gnarled ashwood mage staff, curved forked top clasping a small muted teal crystal, brown wood, slender recognisable silhouette."
+    },
+    {
+      "id": "book",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent inventory icon for Dungeon Merchant dark fantasy pixel-art trading game. Draw exactly ONE item, centered fully visible with generous transparent margins in a square image. Authentic hand-pixelled sprite appearance, crisp square pixel clusters, approximately 64x64 effective pixel grid enlarged with nearest-neighbor, dark 1-2 pixel outlines, limited muted palette, warm ivory highlights, worn medieval materials, readable bold silhouette at 48px display size. View slightly three-quarter, diagonally composed for long objects. No text, lettering, border, tile, scenery, hands, characters, ground shadow, glow halo or other objects. Background genuinely transparent alpha. Subject: a closed thick burgundy leather prayer book, aged ivory page block, brass corner fittings, simple gold cross on cover and short red ribbon bookmark."
+    },
+    {
+      "id": "bow",
+      "prompt": "Use case: stylized-concept. Asset type: one transparent inventory icon for Dungeon Merchant dark fantasy pixel-art trading game. Draw exactly ONE item, centered fully visible with generous transparent margins in a square image. Authentic hand-pixelled sprite appearance, crisp square pixel clusters, approximately 64x64 effective pixel grid enlarged with nearest-neighbor, dark 1-2 pixel outlines, limited muted palette, warm ivory highlights, worn medieval materials, readable bold silhouette at 48px display size. View slightly three-quarter, diagonally composed for long objects. No text, lettering, border, tile, scenery, hands, characters, ground shadow, glow halo or other objects. Background genuinely transparent alpha. Subject: a curved wooden hunting longbow with taut visible pale bowstring and one arrow alongside it, brown leather grip, pale feather fletching."
+    }
+  ]
+}

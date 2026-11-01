@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+.venv/
+.build-venv/
+.build-tools/
+build/
+dist/
+*.spec
+output/
+tmp/
+saves/
+.env
+.env.*
+*.pem
+*.key
+assets/audio/*.mp3
+assets/audio/*.m4a
+assets/audio/*.mp4
+
+*.exe
+*.zip
+
+# Personal presentation material must never be published.
+docs/DEMO.md
+docs/PADLET.md
+private-notes/

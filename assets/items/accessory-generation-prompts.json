@@ -1,0 +1,17 @@
+{
+  "tool": "built-in image generation",
+  "assets": {
+    "ring": {
+      "path": "assets/items/ring.png",
+      "prompt": "Create a single an ornate tarnished silver signet ring with a dark ruby, inventory icon for Dungeon Merchant, dark medieval fantasy pixel art, chunky crisp pixel clusters and subtle dithering, gold warm highlights, centered isolated object, transparent background, no text, no frame, no scene. Readable silhouette at 48 pixels. This is a game asset, one object only."
+    },
+    "amulet": {
+      "path": "assets/items/amulet.png",
+      "prompt": "Create a single a bronze chain necklace with a glowing amber sun pendant, inventory icon for Dungeon Merchant, dark medieval fantasy pixel art, chunky crisp pixel clusters and subtle dithering, gold warm highlights, centered isolated object, transparent background, no text, no frame, no scene. Readable silhouette at 48 pixels. This is a game asset, one object only."
+    },
+    "charm": {
+      "path": "assets/items/charm.png",
+      "prompt": "Create a single a small leather talisman pouch with a raven feather and a turquoise bead, inventory icon for Dungeon Merchant, dark medieval fantasy pixel art, chunky crisp pixel clusters and subtle dithering, gold warm highlights, centered isolated object, transparent background, no text, no frame, no scene. Readable silhouette at 48 pixels. This is a game asset, one object only."
+    }
+  }
+}

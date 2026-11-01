@@ -1,0 +1,20 @@
+{
+  "generator": "built-in image_gen",
+  "assets": [
+    {
+      "id": "mine",
+      "name": "Miner's Seal",
+      "prompt": "ONE isolated medieval dark fantasy RPG treasure inventory sprite: a heavy antique bronze hexagonal miners' guild seal medallion, thick edge, embossed crossed pickaxes, short worn leather loop, earthy bronze and warm gold highlights. Entire object centred, fully visible, occupies 80% of the square. Transparent background. Detailed hand-crafted pixel art with hard square pixel steps and strong dark outline, muted antique colours and selective bright highlights; readable at 40x40 game size, matches dark fantasy equipment icons. Slight three-quarter front view. No people, no hand, no scenery, no display stand, no ground shadow, no text, no numbers, no border, no UI, no other objects."
+    },
+    {
+      "id": "marsh",
+      "name": "Marsh Compass",
+      "prompt": "ONE isolated medieval dark fantasy RPG treasure inventory sprite: an ancient round brass compass with a teal glass face, a clear ivory compass needle, moss-green tarnish and a short piece of dark cord, mysterious but practical, no letters. Entire object centred, fully visible, occupies 80% of the square. Transparent background. Detailed hand-crafted pixel art with hard square pixel steps and strong dark outline, muted antique colours and selective bright highlights; readable at 40x40 game size, matches dark fantasy equipment icons. Slight three-quarter front view. No people, no hand, no scenery, no display stand, no ground shadow, no text, no numbers, no border, no UI, no other objects."
+    },
+    {
+      "id": "crypt",
+      "name": "Dawn Reliquary",
+      "prompt": "ONE isolated medieval dark fantasy RPG treasure inventory sprite: a small ornate ivory and pale gold reliquary shrine pendant, Gothic pointed miniature casing, a warm amber crystal at its centre, restrained sunburst motif, tiny short golden chain loop. Entire object centred, fully visible, occupies 80% of the square. Transparent background. Detailed hand-crafted pixel art with hard square pixel steps and strong dark outline, muted antique colours and selective bright highlights; readable at 40x40 game size, matches dark fantasy equipment icons. Slight three-quarter front view. No people, no hand, no scenery, no display stand, no ground shadow, no text, no numbers, no border, no UI, no other objects."
+    }
+  ]
+}

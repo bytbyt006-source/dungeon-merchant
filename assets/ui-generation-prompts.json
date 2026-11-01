@@ -1,0 +1,41 @@
+{
+  "generator": "built-in image_gen",
+  "style": "dark fantasy pixel art",
+  "assets": [
+    {
+      "id": "mine",
+      "folder": "locations",
+      "transparent": false,
+      "subject": "A dark abandoned medieval mine entrance, massive timber supports and broken rails leading into a cavern, warm amber lantern by the doorway, rubble and jagged rocks, strong large silhouette. No people. Wide horizontal composition.",
+      "prompt": "Dark fantasy RPG game asset. Hand-crafted detailed pixel art, crisp square pixel steps, effective low-resolution grid with nearest-neighbor enlarged pixels. Muted palette with strong legibility at small UI sizes. Matches medieval shop inventory art, painterly colour depth but distinctly pixelated edges, no photorealism, no smooth 3D rendering. A dark abandoned medieval mine entrance, massive timber supports and broken rails leading into a cavern, warm amber lantern by the doorway, rubble and jagged rocks, strong large silhouette. No people. Wide horizontal composition. Landscape illustration, fill the frame edge to edge, 16:9 aspect ratio, no frame, no text, no UI."
+    },
+    {
+      "id": "marsh",
+      "folder": "locations",
+      "transparent": false,
+      "subject": "A haunted misty marsh, crooked willow trees, shallow black water and stepping stones winding toward distant pale blue-green ghost lights, muted teal palette, moss and reeds. No people. Wide horizontal composition.",
+      "prompt": "Dark fantasy RPG game asset. Hand-crafted detailed pixel art, crisp square pixel steps, effective low-resolution grid with nearest-neighbor enlarged pixels. Muted palette with strong legibility at small UI sizes. Matches medieval shop inventory art, painterly colour depth but distinctly pixelated edges, no photorealism, no smooth 3D rendering. A haunted misty marsh, crooked willow trees, shallow black water and stepping stones winding toward distant pale blue-green ghost lights, muted teal palette, moss and reeds. No people. Wide horizontal composition. Landscape illustration, fill the frame edge to edge, 16:9 aspect ratio, no frame, no text, no UI."
+    },
+    {
+      "id": "crypt",
+      "folder": "locations",
+      "transparent": false,
+      "subject": "A sunken medieval stone crypt entrance, Gothic arch and ancient sealed tomb door, cracked steps, violet dusk with small cold blue candles, dark stone and muted purple palette. No people. Wide horizontal composition.",
+      "prompt": "Dark fantasy RPG game asset. Hand-crafted detailed pixel art, crisp square pixel steps, effective low-resolution grid with nearest-neighbor enlarged pixels. Muted palette with strong legibility at small UI sizes. Matches medieval shop inventory art, painterly colour depth but distinctly pixelated edges, no photorealism, no smooth 3D rendering. A sunken medieval stone crypt entrance, Gothic arch and ancient sealed tomb door, cracked steps, violet dusk with small cold blue candles, dark stone and muted purple palette. No people. Wide horizontal composition. Landscape illustration, fill the frame edge to edge, 16:9 aspect ratio, no frame, no text, no UI."
+    },
+    {
+      "id": "d20",
+      "folder": "ui",
+      "transparent": true,
+      "subject": "ONE isolated twenty-sided die, visibly an icosahedron with triangular facets, front facing face showing the number 20 clearly. Muted blue-grey stone with warm antique brass edges, bright ivory digits. Centered entire die with generous transparent margin. No hand, no table, no other objects.",
+      "prompt": "Dark fantasy RPG game asset. Hand-crafted detailed pixel art, crisp square pixel steps, effective low-resolution grid with nearest-neighbor enlarged pixels. Muted palette with strong legibility at small UI sizes. Matches medieval shop inventory art, painterly colour depth but distinctly pixelated edges, no photorealism, no smooth 3D rendering. ONE isolated twenty-sided die, visibly an icosahedron with triangular facets, front facing face showing the number 20 clearly. Muted blue-grey stone with warm antique brass edges, bright ivory digits. Centered entire die with generous transparent margin. No hand, no table, no other objects. Transparent background."
+    },
+    {
+      "id": "gold_coin",
+      "folder": "ui",
+      "transparent": true,
+      "subject": "ONE isolated gold coin, round thick medieval gold coin with ridged edge and a simple embossed diamond motif, oblique front view very slight three-quarter perspective, warm golden amber shadows and pale gold highlight. Centered entire coin, occupies 80 percent of square, transparent generous margin. No letters or numbers, no stack or bag, no extra objects.",
+      "prompt": "Dark fantasy RPG game asset. Hand-crafted detailed pixel art, crisp square pixel steps, effective low-resolution grid with nearest-neighbor enlarged pixels. Muted palette with strong legibility at small UI sizes. Matches medieval shop inventory art, painterly colour depth but distinctly pixelated edges, no photorealism, no smooth 3D rendering. ONE isolated gold coin, round thick medieval gold coin with ridged edge and a simple embossed diamond motif, oblique front view very slight three-quarter perspective, warm golden amber shadows and pale gold highlight. Centered entire coin, occupies 80 percent of square, transparent generous margin. No letters or numbers, no stack or bag, no extra objects. Transparent background."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "greatsword": {
+    "name": "Vanguard",
+    "preferred_items": [
+      "greatsword",
+      "chainmail",
+      "plate_armour"
+    ],
+    "armour": "Layered plate and leather armour, with a travelling cloak",
+    "accessories": "A metal cloak clasp and practical leather belt fittings",
+    "armour_design": "Medium-to-heavy plate over padded cloth or mail. Broad shoulders and reinforced forearms; retain the existing portrait's colours.",
+    "accessory_design": "Cloak clasp or service medallion; an optional strength charm is a future item, not an assumed enchantment.",
+    "outlaw_role": "Brigand"
+  },
+  "sword": {
+    "name": "Duelist",
+    "preferred_items": [
+      "longsword",
+      "leather_armour",
+      "chainmail"
+    ],
+    "armour": "A fitted leather or metal cuirass with protective bracers",
+    "accessories": "Cloak or shoulder fastenings and a sword belt",
+    "armour_design": "Light-to-medium protection, allowing quick movement. Human and elf portraits use cuirasses; orc portraits can retain scale armour.",
+    "accessory_design": "A fastening brooch or belt ornament; a precision charm may be designed later.",
+    "outlaw_role": "Cutthroat"
+  },
+  "hammer_shield": {
+    "name": "Guardian",
+    "preferred_items": [
+      "hammer",
+      "shield",
+      "chainmail",
+      "plate_armour"
+    ],
+    "armour": "Heavy armour with layered shoulder protection and sturdy gauntlets",
+    "accessories": "Metal armour fastenings, a heavy belt and cloak fittings",
+    "armour_design": "Heavy plate or mail-and-plate with a padded underlayer. Large shield and substantial hammer keep the silhouette broad.",
+    "accessory_design": "Service emblem, oath token or protective charm are thematic choices. Only visible fittings are described as equipped until inspected.",
+    "outlaw_role": "Enforcer"
+  },
+  "staff": {
+    "name": "Mage",
+    "preferred_items": [
+      "staff",
+      "mage_robes"
+    ],
+    "armour": "Loose layered robes and a short mantle rather than heavy armour",
+    "accessories": "Decorative robe fastenings, pendants and a leather belt",
+    "armour_design": "Oversized fully covering robes, long sleeves and practical boots; small youthful build. Staff crystal belongs to the weapon.",
+    "accessory_design": "A focus pendant or crystal charm suits the class; visible jewellery is not automatically magical or expensive.",
+    "outlaw_role": "Hexer"
+  },
+  "prayer_book": {
+    "name": "Cleric",
+    "preferred_items": [
+      "book",
+      "cleric_robes"
+    ],
+    "armour": "Layered clerical robes and a mantle with embroidered trim",
+    "accessories": "Religious robe emblems, metal fastenings and a belt",
+    "armour_design": "Modest robes with a stole or mantle; no invented steel armour. Ordinary portraits have youthful proportions; outlaw clergy may look older.",
+    "accessory_design": "Holy symbol, reliquary or prayer beads are possible future accessories. Do not claim beads or a reliquary are visible in every portrait.",
+    "outlaw_role": "Cultist"
+  },
+  "bow": {
+    "name": "Ranger",
+    "preferred_items": [
+      "bow",
+      "leather_armour"
+    ],
+    "armour": "Leather protection with bracers and a travelling cloak",
+    "accessories": "A cloak clasp, leather straps and a quiver harness",
+    "armour_design": "Light leather, flexible layered clothing and a short cloak. Mature, composed silhouette; keep the visible bow and quiver.",
+    "accessory_design": "A trail brooch or tracking charm suits the class. Quiver and bracers are equipment rather than magical jewellery.",
+    "outlaw_role": "Poacher"
+  }
+}

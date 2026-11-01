@@ -1,0 +1,427 @@
+{
+  "version": 1,
+  "count": 42,
+  "description": "36 ordinary character portraits and 6 outlaw portraits. Expression badges intentionally excluded. Original images retained; v2 files replace the earlier same-face variants in this manifest.",
+  "characters": [
+    {
+      "id": "elf_female_bow",
+      "race": "elf",
+      "sex": "female",
+      "weapon": "bow",
+      "identity": "Mature tall elegant elf woman ranger, long pointed ears, flowing silver hair partly tied, high cheekbones, composed knowing gaze, deep green leather armor and dark hood lowered.",
+      "file": "elf_female_bow_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ELF female. Mature tall elegant elf woman ranger, long pointed ears, flowing silver hair partly tied, high cheekbones, composed knowing gaze, deep green leather armor and dark hood lowered. Equipment: One long wooden BOW held beside body and quiver of arrows on back, both readable, no sword, no staff, no shield. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "elf_female_greatsword",
+      "race": "elf",
+      "sex": "female",
+      "weapon": "greatsword",
+      "identity": "Very tall powerful athletic elf woman, long ears, short white undercut hair, strong angular jaw, cold confident expression, weathered silver plate and maroon cape.",
+      "file": "elf_female_greatsword_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ELF female. Very tall powerful athletic elf woman, long ears, short white undercut hair, strong angular jaw, cold confident expression, weathered silver plate and maroon cape. Equipment: A large TWO-HANDED GREATSWORD strapped diagonally across BACK, handle above shoulder, hands empty at sides. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "elf_female_hammer_shield",
+      "race": "elf",
+      "sex": "female",
+      "weapon": "hammer_shield",
+      "identity": "Tall broad-shouldered elf woman, long ears, tightly braided dark hair, long straight nose, resolute frown, heavy iron armor and muted violet tabard.",
+      "file": "elf_female_hammer_shield_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ELF female. Tall broad-shouldered elf woman, long ears, tightly braided dark hair, long straight nose, resolute frown, heavy iron armor and muted violet tabard. Equipment: A solid WARHAMMER held in right hand and a substantial ROUND SHIELD held on left arm, both clearly visible, no sword. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "elf_female_prayer_book",
+      "race": "elf",
+      "sex": "female",
+      "weapon": "prayer_book",
+      "identity": "Petite youthful girl elf cleric, long ears, silver chin-length hair, round gentle face, shy attentive expression, oversized ivory robes and dusty rose mantle.",
+      "file": "elf_female_prayer_book_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ELF female. Petite youthful girl elf cleric, long ears, silver chin-length hair, round gentle face, shy attentive expression, oversized ivory robes and dusty rose mantle. Equipment: One PRAYER BOOK held open in both hands at waist/chest, aged pages and simple geometric holy emblem, no sword, no staff, no shield. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "elf_female_prayer_book_outlaw",
+      "race": "elf",
+      "sex": "female",
+      "weapon": "prayer_book_outlaw",
+      "identity": "Short slight adult female outlaw elf cultist, long notched ears, lank uneven pale hair, pinched asymmetrical face, hooked nose, sallow complexion, unsettling tight smile, worn gray-brown full-cover robes; no gore.",
+      "file": "elf_female_prayer_book_outlaw_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ELF female. Short slight adult female outlaw elf cultist, long notched ears, lank uneven pale hair, pinched asymmetrical face, hooked nose, sallow complexion, unsettling tight smile, worn gray-brown full-cover robes; no gore. Equipment: One PRAYER BOOK held open in both hands at waist/chest, aged pages and simple geometric holy emblem, no sword, no staff, no shield. Distinct face and build, not reference person. Make this outlaw noticeably rough, unattractive, asymmetrical and memorable, not conventionally pretty.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "elf_female_staff",
+      "race": "elf",
+      "sex": "female",
+      "weapon": "staff",
+      "identity": "Petite youthful girl elf mage, long pointed ears, fluffy pale pink bob, rounded youthful face, mischievous small smile, oversized lavender-gray robes, modest clothing.",
+      "file": "elf_female_staff_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ELF female. Petite youthful girl elf mage, long pointed ears, fluffy pale pink bob, rounded youthful face, mischievous small smile, oversized lavender-gray robes, modest clothing. Equipment: One long arcane wooden STAFF held upright beside body, no sword, no shield, no book. Staff fully in frame. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "elf_female_sword",
+      "race": "elf",
+      "sex": "female",
+      "weapon": "sword",
+      "identity": "Tall muscular-slim elf woman, long ears, red braided ponytail, diamond face and proud slight smile, green leather and steel armor.",
+      "file": "elf_female_sword_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ELF female. Tall muscular-slim elf woman, long ears, red braided ponytail, diamond face and proud slight smile, green leather and steel armor. Equipment: One SINGLE-HANDED SWORD held down in right hand, left hand empty, no shield, no back sword. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "elf_male_bow",
+      "race": "elf",
+      "sex": "male",
+      "weapon": "bow",
+      "identity": "Tall mature male elf ranger, long pointed ears, long charcoal hair braided over shoulder, long angular face, wary narrowed eyes, gray-green layered leather and cloak.",
+      "file": "elf_male_bow_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ELF male. Tall mature male elf ranger, long pointed ears, long charcoal hair braided over shoulder, long angular face, wary narrowed eyes, gray-green layered leather and cloak. Equipment: One long wooden BOW held beside body and quiver of arrows on back, both readable, no sword, no staff, no shield. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "elf_male_greatsword",
+      "race": "elf",
+      "sex": "male",
+      "weapon": "greatsword",
+      "identity": "Tall broad-shouldered muscular elf, very long visible pointed ears, long white hair tied back, angular long face and stern eyes, muted bronze plate and charcoal cloak.",
+      "file": "elf_male_greatsword_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ELF male. Tall broad-shouldered muscular elf, very long visible pointed ears, long white hair tied back, angular long face and stern eyes, muted bronze plate and charcoal cloak. Equipment: A large TWO-HANDED GREATSWORD strapped diagonally across BACK, handle above shoulder, hands empty at sides. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "elf_male_hammer_shield",
+      "race": "elf",
+      "sex": "male",
+      "weapon": "hammer_shield",
+      "identity": "Tall solidly built elf, pointed ears, shoulder-length copper hair, square angular jaw, serious reserved face, heavy silver armor with moss cloth.",
+      "file": "elf_male_hammer_shield_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ELF male. Tall solidly built elf, pointed ears, shoulder-length copper hair, square angular jaw, serious reserved face, heavy silver armor with moss cloth. Equipment: A solid WARHAMMER held in right hand and a substantial ROUND SHIELD held on left arm, both clearly visible, no sword. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "elf_male_prayer_book",
+      "race": "elf",
+      "sex": "male",
+      "weapon": "prayer_book",
+      "identity": "Short youthful boyish elf cleric, prominent pointed ears, pale golden pageboy haircut, gentle oval face, serene slight smile, oversized cream and sage robes.",
+      "file": "elf_male_prayer_book_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ELF male. Short youthful boyish elf cleric, prominent pointed ears, pale golden pageboy haircut, gentle oval face, serene slight smile, oversized cream and sage robes. Equipment: One PRAYER BOOK held open in both hands at waist/chest, aged pages and simple geometric holy emblem, no sword, no staff, no shield. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "elf_male_staff",
+      "race": "elf",
+      "sex": "male",
+      "weapon": "staff",
+      "identity": "Short petite boyish elf mage, very long ears, fluffy white hair, narrow round youthful face, aloof pout, oversized dark teal robes.",
+      "file": "elf_male_staff_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ELF male. Short petite boyish elf mage, very long ears, fluffy white hair, narrow round youthful face, aloof pout, oversized dark teal robes. Equipment: One long arcane wooden STAFF held upright beside body, no sword, no shield, no book. Staff fully in frame. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "elf_male_sword",
+      "race": "elf",
+      "sex": "male",
+      "weapon": "sword",
+      "identity": "Tall strong slender-athletic elf, pointed ears, asymmetric pale blond fringe, sharp chin, amused smirk, dark green brigandine and silver bracers.",
+      "file": "elf_male_sword_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ELF male. Tall strong slender-athletic elf, pointed ears, asymmetric pale blond fringe, sharp chin, amused smirk, dark green brigandine and silver bracers. Equipment: One SINGLE-HANDED SWORD held down in right hand, left hand empty, no shield, no back sword. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "elf_male_sword_outlaw",
+      "race": "elf",
+      "sex": "male",
+      "weapon": "sword_outlaw",
+      "identity": "Tall wiry strong adult outlaw elf, pointed ears with ragged notches, thin greasy black hair, gaunt asymmetrical face, crooked long nose, missing tooth, nasty sneer, mismatched dark leather and tarnished steel.",
+      "file": "elf_male_sword_outlaw_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ELF male. Tall wiry strong adult outlaw elf, pointed ears with ragged notches, thin greasy black hair, gaunt asymmetrical face, crooked long nose, missing tooth, nasty sneer, mismatched dark leather and tarnished steel. Equipment: One SINGLE-HANDED SWORD held down in right hand, left hand empty, no shield, no back sword. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "human_female_bow",
+      "race": "human",
+      "sex": "female",
+      "weapon": "bow",
+      "identity": "Mature elegant tall woman ranger, long dark ponytail, sharp cheekbones and calm knowing smile, fitted practical forest green leather with full coverage, no exposed cleavage.",
+      "file": "human_female_bow_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: HUMAN female. Mature elegant tall woman ranger, long dark ponytail, sharp cheekbones and calm knowing smile, fitted practical forest green leather with full coverage, no exposed cleavage. Equipment: One long wooden BOW held beside body and quiver of arrows on back, both readable, no sword, no staff, no shield. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "human_female_greatsword",
+      "race": "human",
+      "sex": "female",
+      "weapon": "greatsword",
+      "identity": "Tall powerful broad-shouldered woman, muscular build, cropped silver hair, square jaw, stern confidence, heavy weathered steel armor with dark navy cloak.",
+      "file": "human_female_greatsword_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: HUMAN female. Tall powerful broad-shouldered woman, muscular build, cropped silver hair, square jaw, stern confidence, heavy weathered steel armor with dark navy cloak. Equipment: A large TWO-HANDED GREATSWORD strapped diagonally across BACK, handle above shoulder, hands empty at sides. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "human_female_hammer_shield",
+      "race": "human",
+      "sex": "female",
+      "weapon": "hammer_shield",
+      "identity": "Tall stocky muscular woman, red hair in tight bun, round broad face, determined frown, bulky steel armor and dark mustard tabard.",
+      "file": "human_female_hammer_shield_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: HUMAN female. Tall stocky muscular woman, red hair in tight bun, round broad face, determined frown, bulky steel armor and dark mustard tabard. Equipment: A solid WARHAMMER held in right hand and a substantial ROUND SHIELD held on left arm, both clearly visible, no sword. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "human_female_prayer_book",
+      "race": "human",
+      "sex": "female",
+      "weapon": "prayer_book",
+      "identity": "Petite youthful girl cleric, soft face, light brown twin braids, reserved gentle expression, loose ivory robes and muted blue hood lying on shoulders.",
+      "file": "human_female_prayer_book_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: HUMAN female. Petite youthful girl cleric, soft face, light brown twin braids, reserved gentle expression, loose ivory robes and muted blue hood lying on shoulders. Equipment: One PRAYER BOOK held open in both hands at waist/chest, aged pages and simple geometric holy emblem, no sword, no staff, no shield. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "human_female_staff",
+      "race": "human",
+      "sex": "female",
+      "weapon": "staff",
+      "identity": "Petite youthful girl mage, round cheeks, short black bob, inquisitive wide eyes, oversized plum robes, entirely modest, no makeup.",
+      "file": "human_female_staff_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: HUMAN female. Petite youthful girl mage, round cheeks, short black bob, inquisitive wide eyes, oversized plum robes, entirely modest, no makeup. Equipment: One long arcane wooden STAFF held upright beside body, no sword, no shield, no book. Staff fully in frame. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "human_female_sword",
+      "race": "human",
+      "sex": "female",
+      "weapon": "sword",
+      "identity": "Tall strong athletic woman, dark brown braided hair, freckles and wide cheekbones, cocky smile, steel breastplate over muted russet clothing.",
+      "file": "human_female_sword_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: HUMAN female. Tall strong athletic woman, dark brown braided hair, freckles and wide cheekbones, cocky smile, steel breastplate over muted russet clothing. Equipment: One SINGLE-HANDED SWORD held down in right hand, left hand empty, no shield, no back sword. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "human_male_bow",
+      "race": "human",
+      "sex": "male",
+      "weapon": "bow",
+      "identity": "Tall mature male ranger, lean seasoned build, long tied black hair, angular face with stubble, watchful expression, olive leather outfit and short cloak.",
+      "file": "human_male_bow_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: HUMAN male. Tall mature male ranger, lean seasoned build, long tied black hair, angular face with stubble, watchful expression, olive leather outfit and short cloak. Equipment: One long wooden BOW held beside body and quiver of arrows on back, both readable, no sword, no staff, no shield. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "human_male_greatsword",
+      "race": "human",
+      "sex": "male",
+      "weapon": "greatsword",
+      "file": "human_male_greatsword_front.png",
+      "identity": "Approved frontal human male greatsword adventurer.",
+      "prompt": "Edit approved pixel character to strict direct frontal view; preserve steel armor, burgundy cloak and greatsword strapped on back. Transparent background.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "human_male_greatsword_outlaw",
+      "race": "human",
+      "sex": "male",
+      "weapon": "greatsword_outlaw",
+      "file": "human_male_outlaw_greatsword_front.png",
+      "identity": "Approved broad human male outlaw with mohawk, scar and green cloak.",
+      "prompt": "Use case: stylized-concept. Generate ONE new original character portrait for Dungeon Merchant, using attached image ONLY for consistent dark fantasy pixel-art technique, lighting direction, palette and portrait framing. DO NOT reuse its face, hairstyle, armor design or physique. Subject: a wanted outlaw, adult HUMAN MALE mercenary, tall powerfully broad barrel-chested muscular silhouette, shaved head with a dark short mohawk, heavy square jaw, broken nose, healed scar crossing eyebrow, short uneven black beard, one small battered iron ear ring. Face expressive with a restrained smug crooked smirk, both eyes looking DIRECTLY at the viewer. Upright STRICT FRONTAL FULL BODY pose, face/chest/hips square to camera, boots on common baseline near bottom, no three-quarter angle. Both empty hands visible relaxed away from torso. A massive TWO-HANDED GREATSWORD in scabbard strapped diagonally across his BACK, grip visible over shoulder. Clothing: practical battered dark iron brigandine over brown padded sleeves, asymmetrical broad shoulder protection, faded moss green short cloak, heavy belt and rugged boots, no helmet or face covering. Visually distinct from reference's burgundy-cloaked slim swordsman. Subtle threatening mercenary demeanor, NOT monstrous, no glowing red eyes, no skull motif overload, no blood or gore. This is a morally ambiguous humanoid, recognizable through unique facial features suitable for a future wanted poster. Deliberate visible square pixel clusters, clean stepped contours, limited desaturated palette, detailed but stylized 2D RPG sprite, realistic adult proportions, not photo, not smooth painting, not chibi. Transparent background, NO glow, NO vignette, NO ground or cast shadow, NO lettering, NO poster, NO UI, NO status emoji. Entire body and all gear inside portrait frame, generous margin above greatsword hilt and around boots.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "human_male_hammer_shield",
+      "race": "human",
+      "sex": "male",
+      "weapon": "hammer_shield",
+      "identity": "Very broad stocky warrior; balding with thick sandy beard, round broad nose, friendly stern squint; heavy dull steel armor, dark teal tabard.",
+      "file": "human_male_hammer_shield_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: HUMAN male. Very broad stocky warrior; balding with thick sandy beard, round broad nose, friendly stern squint; heavy dull steel armor, dark teal tabard. Equipment: A solid WARHAMMER held in right hand and a substantial ROUND SHIELD held on left arm, both clearly visible, no sword. Only reference style, generate a genuinely different person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "human_male_prayer_book",
+      "race": "human",
+      "sex": "male",
+      "weapon": "prayer_book",
+      "identity": "Boyish youthful short male cleric, soft round face, straight light blond hair, gentle slight smile, oversized cream and brown robes.",
+      "file": "human_male_prayer_book_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: HUMAN male. Boyish youthful short male cleric, soft round face, straight light blond hair, gentle slight smile, oversized cream and brown robes. Equipment: One PRAYER BOOK held open in both hands at waist/chest, aged pages and simple geometric holy emblem, no sword, no staff, no shield. Only reference style, generate a genuinely different person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "human_male_staff",
+      "race": "human",
+      "sex": "male",
+      "weapon": "staff",
+      "identity": "Boyish youthful male mage, short petite build, round face, messy chestnut bob, curious shy expression; oversized navy robes and long sleeves, no armor.",
+      "file": "human_male_staff_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: HUMAN male. Boyish youthful male mage, short petite build, round face, messy chestnut bob, curious shy expression; oversized navy robes and long sleeves, no armor. Equipment: One long arcane wooden STAFF held upright beside body, no sword, no shield, no book. Staff fully in frame. Only reference style, generate a genuinely different person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "human_male_staff_outlaw",
+      "race": "human",
+      "sex": "male",
+      "weapon": "staff_outlaw",
+      "identity": "Short slight adult male outlaw sorcerer, hunched shoulders, thinning greasy gray hair, long crooked nose, sunken cheeks, wart on cheek, sly tooth-gapped smile, ragged dark purple robes.",
+      "file": "human_male_staff_outlaw_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: HUMAN male. Short slight adult male outlaw sorcerer, hunched shoulders, thinning greasy gray hair, long crooked nose, sunken cheeks, wart on cheek, sly tooth-gapped smile, ragged dark purple robes. Equipment: One long arcane wooden STAFF held upright beside body, no sword, no shield, no book. Staff fully in frame. Distinct face and build, not reference person. Make this outlaw noticeably rough, unattractive, asymmetrical and memorable, not conventionally pretty.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "human_male_sword",
+      "race": "human",
+      "sex": "male",
+      "weapon": "sword",
+      "identity": "Tall athletic swordsman; auburn swept-back hair, narrow clean-shaven face, hooked nose, self-confident small smile; fitted charcoal leather cuirass, ochre sash.",
+      "file": "human_male_sword_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: HUMAN male. Tall athletic swordsman; auburn swept-back hair, narrow clean-shaven face, hooked nose, self-confident small smile; fitted charcoal leather cuirass, ochre sash. Equipment: One SINGLE-HANDED SWORD held down in right hand, left hand empty, no shield, no back sword. Only reference style, generate a genuinely different person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "orc_female_bow",
+      "race": "orc",
+      "sex": "female",
+      "weapon": "bow",
+      "identity": "Tall mature strong elegant female orc ranger, olive-green skin, neat tusks, long dark hair in high ponytail, strong cheekbones, confident knowing smile, forest leather full coverage and dark short cloak.",
+      "file": "orc_female_bow_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ORC female. Tall mature strong elegant female orc ranger, olive-green skin, neat tusks, long dark hair in high ponytail, strong cheekbones, confident knowing smile, forest leather full coverage and dark short cloak. Equipment: One long wooden BOW held beside body and quiver of arrows on back, both readable, no sword, no staff, no shield. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "orc_female_bow_outlaw",
+      "race": "orc",
+      "sex": "female",
+      "weapon": "bow_outlaw",
+      "identity": "Tall mature wiry female outlaw orc ranger, green-gray skin, crooked tusks, coarse sparse black hair pulled back, broken nose, scarred cheek, suspicious sneer, patchwork dark leather and dirty olive cloak.",
+      "file": "orc_female_bow_outlaw_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ORC female. Tall mature wiry female outlaw orc ranger, green-gray skin, crooked tusks, coarse sparse black hair pulled back, broken nose, scarred cheek, suspicious sneer, patchwork dark leather and dirty olive cloak. Equipment: One long wooden BOW held beside body and quiver of arrows on back, both readable, no sword, no staff, no shield. Distinct face and build, not reference person. Make this outlaw noticeably rough, unattractive, asymmetrical and memorable, not conventionally pretty.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "orc_female_greatsword",
+      "race": "orc",
+      "sex": "female",
+      "weapon": "greatsword",
+      "identity": "Very tall broad muscular female orc, olive-green skin, visible lower tusks, long black braided mohawk, strong square face and proud stare, battered heavy steel armor and deep red cloak.",
+      "file": "orc_female_greatsword_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ORC female. Very tall broad muscular female orc, olive-green skin, visible lower tusks, long black braided mohawk, strong square face and proud stare, battered heavy steel armor and deep red cloak. Equipment: A large TWO-HANDED GREATSWORD strapped diagonally across BACK, handle above shoulder, hands empty at sides. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "orc_female_hammer_shield",
+      "race": "orc",
+      "sex": "female",
+      "weapon": "hammer_shield",
+      "identity": "Tall thickset powerful female orc, deep green skin, pronounced lower tusks, dark hair in two tight braids, broad face and stern eyes, heavy dark steel plate with muted teal tabard.",
+      "file": "orc_female_hammer_shield_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ORC female. Tall thickset powerful female orc, deep green skin, pronounced lower tusks, dark hair in two tight braids, broad face and stern eyes, heavy dark steel plate with muted teal tabard. Equipment: A solid WARHAMMER held in right hand and a substantial ROUND SHIELD held on left arm, both clearly visible, no sword. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "orc_female_hammer_shield_outlaw",
+      "race": "orc",
+      "sex": "female",
+      "weapon": "hammer_shield_outlaw",
+      "identity": "Huge broad adult outlaw orc woman, gray-green skin, uneven chipped tusks, shaved head with patchy braid, flattened nose, heavy asymmetric jaw, grim scowl, ugly dented iron armor and dirty brown cloak.",
+      "file": "orc_female_hammer_shield_outlaw_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ORC female. Huge broad adult outlaw orc woman, gray-green skin, uneven chipped tusks, shaved head with patchy braid, flattened nose, heavy asymmetric jaw, grim scowl, ugly dented iron armor and dirty brown cloak. Equipment: A solid WARHAMMER held in right hand and a substantial ROUND SHIELD held on left arm, both clearly visible, no sword. Distinct face and build, not reference person. Make this outlaw noticeably rough, unattractive, asymmetrical and memorable, not conventionally pretty.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "orc_female_prayer_book",
+      "race": "orc",
+      "sex": "female",
+      "weapon": "prayer_book",
+      "identity": "Short youthful girl orc cleric, sage-green skin, tiny tusks, pale brown bob with small braid, gentle round face, quiet sincere expression, oversized ivory and faded green robes.",
+      "file": "orc_female_prayer_book_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ORC female. Short youthful girl orc cleric, sage-green skin, tiny tusks, pale brown bob with small braid, gentle round face, quiet sincere expression, oversized ivory and faded green robes. Equipment: One PRAYER BOOK held open in both hands at waist/chest, aged pages and simple geometric holy emblem, no sword, no staff, no shield. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "orc_female_staff",
+      "race": "orc",
+      "sex": "female",
+      "weapon": "staff",
+      "identity": "Short petite youthful girl orc mage, light green skin, tiny lower tusks, short dark twin puffs, round cheeks, cheeky curious expression, oversized plum robes fully covering body.",
+      "file": "orc_female_staff_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ORC female. Short petite youthful girl orc mage, light green skin, tiny lower tusks, short dark twin puffs, round cheeks, cheeky curious expression, oversized plum robes fully covering body. Equipment: One long arcane wooden STAFF held upright beside body, no sword, no shield, no book. Staff fully in frame. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "orc_female_sword",
+      "race": "orc",
+      "sex": "female",
+      "weapon": "sword",
+      "identity": "Tall athletic muscular female orc, gray-green skin, small tusks, short tousled copper hair, strong cheekbones and playful confident grin, brown leather and steel armor.",
+      "file": "orc_female_sword_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ORC female. Tall athletic muscular female orc, gray-green skin, small tusks, short tousled copper hair, strong cheekbones and playful confident grin, brown leather and steel armor. Equipment: One SINGLE-HANDED SWORD held down in right hand, left hand empty, no shield, no back sword. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "orc_male_bow",
+      "race": "orc",
+      "sex": "male",
+      "weapon": "bow",
+      "identity": "Tall mature athletic male orc ranger, olive skin, tusks, long salt-and-pepper braid, angular heavy jaw and vigilant eyes, muted pine leather with rough short cloak.",
+      "file": "orc_male_bow_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ORC male. Tall mature athletic male orc ranger, olive skin, tusks, long salt-and-pepper braid, angular heavy jaw and vigilant eyes, muted pine leather with rough short cloak. Equipment: One long wooden BOW held beside body and quiver of arrows on back, both readable, no sword, no staff, no shield. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "orc_male_greatsword",
+      "race": "orc",
+      "sex": "male",
+      "weapon": "greatsword",
+      "identity": "Extremely tall massive muscular male orc, olive-gray green skin, big lower tusks, wide heavy jaw, black topknot, calm intimidating stare, battered dark steel armor and brown cloak.",
+      "file": "orc_male_greatsword_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ORC male. Extremely tall massive muscular male orc, olive-gray green skin, big lower tusks, wide heavy jaw, black topknot, calm intimidating stare, battered dark steel armor and brown cloak. Equipment: A large TWO-HANDED GREATSWORD strapped diagonally across BACK, handle above shoulder, hands empty at sides. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "orc_male_hammer_shield",
+      "race": "orc",
+      "sex": "male",
+      "weapon": "hammer_shield",
+      "identity": "Very broad barrel-chested muscular male orc, dark moss-green skin, large lower tusks, bald head and bushy beard, furrowed serious face, very heavy iron armor and dull ochre cloth.",
+      "file": "orc_male_hammer_shield_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ORC male. Very broad barrel-chested muscular male orc, dark moss-green skin, large lower tusks, bald head and bushy beard, furrowed serious face, very heavy iron armor and dull ochre cloth. Equipment: A solid WARHAMMER held in right hand and a substantial ROUND SHIELD held on left arm, both clearly visible, no sword. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "orc_male_prayer_book",
+      "race": "orc",
+      "sex": "male",
+      "weapon": "prayer_book",
+      "identity": "Short stocky youthful boyish male orc cleric, sage-green skin, tiny tusks, short sandy hair, round face and shy smile, oversized warm gray and cream robes.",
+      "file": "orc_male_prayer_book_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ORC male. Short stocky youthful boyish male orc cleric, sage-green skin, tiny tusks, short sandy hair, round face and shy smile, oversized warm gray and cream robes. Equipment: One PRAYER BOOK held open in both hands at waist/chest, aged pages and simple geometric holy emblem, no sword, no staff, no shield. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "orc_male_staff",
+      "race": "orc",
+      "sex": "male",
+      "weapon": "staff",
+      "identity": "Short stocky petite boyish youthful male orc mage, green skin, small tusks, fluffy dark curls, round face and curious expression, oversized indigo robes, not a muscular adult warrior.",
+      "file": "orc_male_staff_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ORC male. Short stocky petite boyish youthful male orc mage, green skin, small tusks, fluffy dark curls, round face and curious expression, oversized indigo robes, not a muscular adult warrior. Equipment: One long arcane wooden STAFF held upright beside body, no sword, no shield, no book. Staff fully in frame. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    },
+    {
+      "id": "orc_male_sword",
+      "race": "orc",
+      "sex": "male",
+      "weapon": "sword",
+      "identity": "Tall powerful male orc, gray-green skin and lower tusks, shaved sides with thick braid, broad flat nose and toothy cocky grin, practical rust-brown scale armor.",
+      "file": "orc_male_sword_v2.png",
+      "prompt": "Use case: stylized-concept. Create ONE isolated original dark fantasy PIXEL ART character for Dungeon Merchant. Reference is ONLY the pixel-art style, muted palette, warm upper-left lighting and framing guide, NOT identity. New distinct face, hairstyle, clothing silhouette and personality. STRICT DIRECT FRONT VIEW: face, eyes, chest, shoulders and hips all face directly toward camera; no three-quarter pose. Full body including feet and entire equipment, portrait 2:3 canvas with safe margins. Same grounded realistic-to-anime proportions and deliberate sharp square pixel clusters, stepped contours; no smooth painting or photo. Human/elf warriors tall and strong; orcs broad; youthful mages/clerics short and petite and fully modest. Show intended height differences by headroom and body proportions; boots aligned near bottom baseline. Actually transparent background, NO black backdrop, NO gradient, NO glow or fog, NO floor shadow. No text, labels, expression icons or frame. Subject: ORC male. Tall powerful male orc, gray-green skin and lower tusks, shaved sides with thick braid, broad flat nose and toothy cocky grin, practical rust-brown scale armor. Equipment: One SINGLE-HANDED SWORD held down in right hand, left hand empty, no shield, no back sword. Distinct face and build, not reference person.",
+      "method": "built-in image_gen"
+    }
+  ]
+}
