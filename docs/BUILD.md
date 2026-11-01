@@ -14,4 +14,4 @@ The executable is `dist/DungeonMerchant.exe`. Keep the console launcher open whi
 dist\DungeonMerchant.exe --no-browser --port 8765 --save output\verification-save.json
 ```
 
-Do not publish local saves, imported audio, development environments, caches, tokens or build intermediates. Public audio can be regenerated with `python tools/generate_public_audio.py`. Test the source and the packaged executable before creating a release.
+Do not publish local saves, personal notes, unapproved audio, development environments, caches, tokens or build intermediates. Only include music identified in CREDITS.md with permission appropriate to the project. Public audio can be regenerated with `python tools/generate_public_audio.py`. Test the source and the packaged executable before creating a release.

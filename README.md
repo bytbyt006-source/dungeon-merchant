@@ -15,7 +15,7 @@ A dark fantasy shopkeeping RPG built with Python and a local browser interface. 
 
 The game runs locally at `127.0.0.1`; it does not need an online account. Packaged saves are stored in `%LOCALAPPDATA%\DungeonMerchant\save.json`. Progress saves automatically after successful actions; **Save** also writes the current progress. **Continue** resumes it. **New game** archives the previous campaign before starting again.
 
-The public edition excludes imported music and audio whose redistribution permission has not been confirmed. It includes original synthesized sound effects. Background music is not included.
+Version 1.0.1 includes ambient and battle music, separate music/effects volume controls, and original synthesized sound effects. Music is included for this noncommercial educational game under the permissions described in CREDITS.md. The previous v1.0.0 release remains available.
 
 ## Your first day
 
@@ -91,6 +91,6 @@ The JavaScript checks are optional developer checks and require Node.js. See [BU
 
 ## Credits and asset use
 
-Artwork was generated with OpenAI image generation. Source development used AI assistance. Image-generation prompts are retained with the assets. Sound effects in the public edition are synthesized from code; unverified imported tracks are excluded. See [CREDITS.md](CREDITS.md).
+Artwork was generated with OpenAI image generation. Source development used AI assistance. Image-generation prompts are retained with the assets. Sound effects in the public edition are synthesized from code. Ambient and battle music are credited separately and retain their original rights. See [CREDITS.md](CREDITS.md).
 
 No open-source licence is granted by this repository. Public visibility permits viewing and downloading; it does not itself grant permission to redistribute the project or its assets.
